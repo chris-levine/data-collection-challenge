@@ -1,1 +1,2 @@
 # data-collection-challenge
+This is my submission for the data collection challenge. The goal of this assignment was to be able to parse a website's html data and store that data. Furthermore, I was able to extract a table from a website and convert into a pandas dataframe. From that I was able to make visualizations and answer queries.
